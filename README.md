@@ -29,6 +29,7 @@ In a Landscape of Ice and Fire.
 
 - **A Section** a wildfang (wild, free sprited) and simple protagonist 
   - arrives and will then meet three animals
+  - all motives appear or are at least hinted at
 - **B Section** Gallus the irish bear
 - **A.1 Section**
   - short

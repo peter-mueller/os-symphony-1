@@ -34,15 +34,14 @@ In a Landscape of Ice and Fire.
 - **A.1 Section**
   - short
 - **C Section** Xaver the spanish crab
+  - a minor based to make a certain cadence accessible
 - **A.2 Section**
   - short
 - **D Section** Norbert the french dog
 - **A.3 Section**
   - closing
   
-![wildfang simple protagonist](motives/wildfang-simple.png)
-
-*wildfang simple protagonist*
+![](motives/movement-1.png)
 
 ## 2. Movement (to be announced)
 

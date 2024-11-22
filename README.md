@@ -56,6 +56,7 @@ In a Landscape of Ice and Fire.
   - [ ] Instumentation
   - [ ] Piano Reductions
   - [ ] Issue Templates
+  - [ ] Pipeline for Audio Samples of Motives and Sections (Piano + Orchestra)
 - [ ] Describe Composition Style Guide 
 - [ ] Finish Piano Reduction Parts for First Movement
 - [ ] Finish Orchestration for First Movement

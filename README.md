@@ -34,7 +34,8 @@ In a Landscape of Ice and Fire.
 - **A.1 Section**
   - short
 - **C Section** Xaver the spanish crab
-  - a minor based to make a certain cadence accessible
+  - a minor accessible, to make a certain cadence accessible
+  - rhythms based on contradanza, tresillo, cinquillo, bele (belair), son montuno/tumbao piano bass, zouk, bachata zouk
 - **A.2 Section**
   - short
 - **D Section** Norbert the french dog

@@ -34,12 +34,14 @@ In a Landscape of Ice and Fire.
 - **A.1 Section**
   - short
 - **C Section** Xaver the spanish crab
-  - a minor accessible, to make a certain cadence accessible
+  - a minor accessible, consider andalusian, terrega
+  - consider Pasodoble
   - rhythms based on contradanza, tresillo, cinquillo, bele (belair), son montuno/tumbao piano bass, zouk, bachata zouk
   - Laureano Fuentes Matons, Las artes en Santiago de Cuba
 - **A.2 Section**
   - short
 - **D Section** Norbert the french dog
+  - 
 - **A.3 Section**
   - closing
   
@@ -47,7 +49,10 @@ In a Landscape of Ice and Fire.
 
 ## 2. Movement (to be announced)
 
-## 3. Movement (to be announced)
+
+## 3. Movement
+
+- Scherzo based on Dvořák: Moravian Duets, Op. 32
 
 ## 4. Movement (to be announced)
 

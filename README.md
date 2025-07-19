@@ -52,7 +52,7 @@ In a Landscape of Ice and Fire.
 
 ## 3. Movement
 
-- Scherzo based on Dvořák: Moravian Duets, Op. 32
+- Scherzo based on Dvořák: Moravian Duets, Op. 32, Bändl, Ringlein
 
 ## 4. Movement (to be announced)
 
